@@ -1,3 +1,3 @@
 # Demo
 
-Just a test to creat a repository.
+Just a test to create a repository.
